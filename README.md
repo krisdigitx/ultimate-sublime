@@ -65,4 +65,5 @@
 * Theme-Flatland
 * TrailingSpaces
 * View in Browser
+* Docker Syntax Highlighting
 
