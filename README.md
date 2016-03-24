@@ -1,6 +1,7 @@
 # ultimate-sublime
 
 ## Perferences - User Settings
+```
 {
     "auto_complete_delay": 1,
     "bold_folder_labels": true,
@@ -33,35 +34,35 @@
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true
 }
-
+```
 
 ## Packages from Package Control:
-1337 Color Scheme
-Alignment
-AngularJS
-Ansible
-AnsibleSnippets
-DocBlockr
-Emmet
-HTMLBeautify
-Javascript & NodeJS Snippets
-JavascriptNext - ES6 Syntax
-jquery
-jsFormat
-Package-Control
-Predawn
-PyV8
-SideBarEnhancements
-SnippetMaker
-sublime-github
-sublime-jshint
-SublimeCodeIntel
-SublimeLinter
-SublimeLinter-jsHint
-SublimeText-Nodejs
-Terminal
-TernJS
-Theme-Flatland
-TrailingSpaces
-View in Browser
+* 1337 Color Scheme
+* Alignment
+* AngularJS
+* Ansible
+* AnsibleSnippets
+* DocBlockr
+* Emmet
+* HTMLBeautify
+* Javascript & NodeJS Snippets
+* JavascriptNext - ES6 Syntax
+* jquery
+* jsFormat
+* Package-Control
+* Predawn
+* PyV8
+* SideBarEnhancements
+* SnippetMaker
+* sublime-github
+* sublime-jshint
+* SublimeCodeIntel
+* SublimeLinter
+* SublimeLinter-jsHint
+* SublimeText-Nodejs
+* Terminal
+* TernJS
+* Theme-Flatland
+* TrailingSpaces
+* View in Browser
 
