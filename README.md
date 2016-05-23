@@ -2,7 +2,7 @@
 ## install package control
 
 ```
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ #path to sublime packages directory
 git clone git://github.com/wbond/sublime_package_control.git Package\ Control
 cd Package\ Control
 git checkout python3
