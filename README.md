@@ -15,7 +15,7 @@ git checkout python3
     "auto_complete_delay": 1,
     "bold_folder_labels": true,
     "caret_style": "phase",
-    "color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+    "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
     "default_line_ending": "unix",
     "dictionary": "Packages/Language - English/en_GB.dic",
     "draw_white_space": "all",
